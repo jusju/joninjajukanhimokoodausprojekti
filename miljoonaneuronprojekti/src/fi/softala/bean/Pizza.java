@@ -8,6 +8,7 @@ public class Pizza {
 	private double hinta;
 	private String kuvaus;
 	private int id;
+	// Kommentti testi
 }
 
 
