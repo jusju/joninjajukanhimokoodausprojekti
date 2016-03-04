@@ -1,5 +1,12 @@
 package fi.softala.bean;
 
-public class Pizza {
 
+
+
+public class Pizza {
+	private String nimi;
+	
 }
+
+
+
